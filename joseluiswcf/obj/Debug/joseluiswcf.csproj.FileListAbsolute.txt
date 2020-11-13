@@ -1,0 +1,7 @@
+C:\Users\saul\source\repos\joseluiswcf\joseluiswcf\bin\joseluiswcf.dll.config
+C:\Users\saul\source\repos\joseluiswcf\joseluiswcf\bin\joseluiswcf.dll
+C:\Users\saul\source\repos\joseluiswcf\joseluiswcf\bin\joseluiswcf.pdb
+C:\Users\saul\source\repos\joseluiswcf\joseluiswcf\obj\Debug\joseluiswcf.csprojAssemblyReference.cache
+C:\Users\saul\source\repos\joseluiswcf\joseluiswcf\obj\Debug\joseluiswcf.csproj.CoreCompileInputs.cache
+C:\Users\saul\source\repos\joseluiswcf\joseluiswcf\obj\Debug\joseluiswcf.dll
+C:\Users\saul\source\repos\joseluiswcf\joseluiswcf\obj\Debug\joseluiswcf.pdb
